@@ -31,11 +31,11 @@ Which regions are driving emissions growth?
 H1: Global CO₂ emissions have increased significantly since 1990,the baseline year widely used in international climate agreements. 
 Validation: This will be evaluated using a global emissions trend line to observe changes over time
 
-H2: Developed countries tend to have higher CO₂ emissions per capita compared to developing countries.
-Validation: This will be assessed through per-capita emission rankings and scatter plot comparisons.
-
-H3: Countries with large populations account for higher total emissions but do not necessarily rank highest in per-capita emissions.
+H2: Countries with large populations account for higher total emissions but do not necessarily rank highest in per-capita emissions.
 Validation: This will be analysed using a total versus per-capita scatter plot divided into responsibility quadrants.
+
+H3: Developed countries tend to have higher CO₂ emissions per capita compared to developing countries.
+Validation: This will be assessed through per-capita emission rankings and scatter plot comparisons.
 
 H4: Countries with the highest historical cumulative emissions are not always the same as those with the highest current annual emissions.
 Validation: This will be examined through cumulative emissions time-series analysis and ranking comparisons.
