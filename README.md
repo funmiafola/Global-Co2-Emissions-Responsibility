@@ -57,9 +57,9 @@ Analysis
     Responsibility comparisons
     Growth calculations
 Dashboard Development
-    Build visualisations in BI tool
+    Build visualisations in BI tool https://app.powerbi.com/groups/me/reports/6d94f091-0b6b-458e-a030-0d8a229ec09f/d38f94ea7c62815a093a?experience=power-bi
     Apply UX principles
-Evaluation
+    Evaluation
     Validate hypotheses
     Review usability
 Deployment
