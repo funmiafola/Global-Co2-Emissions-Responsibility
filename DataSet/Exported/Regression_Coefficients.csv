@@ -1,0 +1,4 @@
+Variable,Coefficient,Model
+Population,5.404004245438878e-06,Population Only
+Population,4.531984195146838e-07,Population + GDP
+GDP,3.359265649735115e-10,Population + GDP
