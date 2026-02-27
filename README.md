@@ -40,7 +40,7 @@ What are projected global emissions trend up to 2030?
 
 # Hypothesis and how to validate?
 
-H1: Global CO₂ emissions have increased significantly since 1990
+H1: Global CO2 emissions have increased significantly since 1990
 
 Validation: This will be evaluated using : Time-Series trend analysis, Linear Regression forecastion model and Percentage growth calculation
 Result: Confirmed. Emissions increased by approximatley 68.6% since 1990
@@ -53,7 +53,7 @@ Result:Strong positive correlation (r = 0.824, p < 0.001).
 However, high population countries do not always rank highest in per-capita emissions.
 
 
-H3: Developed countries tend to have higher CO₂ emissions per capita compared to developing countries.
+H3: Developed countries tend to have higher CO2 emissions per capita compared to developing countries.
 
 Validation: This will be assessed by: Independent t-test and per- capita ranking comparison.
 
@@ -89,10 +89,10 @@ Projected continued growth to 2030
 
 This indicates strong historical trend persistence.
 
-Model B1 – Population Only Regression
+# Model B1 – Population Only Regression
 
 Predictor: Population
-Target: Total CO₂
+Target: Total CO2
 
 # Results:
 
@@ -104,7 +104,7 @@ R² = -0.429
 
 The negative R² indicates poor predictive performance when using population alone.
 
-Model B2 – Multiple Linear Regression
+# Model B2 – Multiple Linear Regression
 
 Predictors:
 
@@ -122,7 +122,7 @@ R² = 0.751
 
 The multi-factor model explains 75% of emissions variation, demonstrating that economic activity significantly amplifies emissions beyond population effects.
 
-Key Insight
+# Key Insight
 
 Emissions responsibility is multidimensional.
 Population contributes to scale, but GDP and industrial structure significantly influence total emissions levels.
@@ -163,15 +163,18 @@ Planning
 Data Collection
     Source OWID dataset
     Verify licensing and governance
-Data Processing
+Data Processing and Transformation
     Clean missing values
     Filter relevant years
     Create derived metrics
-Analysis
+EDA Analysis
     Trend analysis
     Responsibility comparisons
     Growth calculations
+
 Predictive Modelling 
+
+Interpretation and Dashboarding
 
 # Dashboard Development
     Build visualisations in BI tool https://app.powerbi.com/groups/me/reports/a8a78e7c-8d4c-47d3-a62a-acc68d39996d/fa22ae502632d89b08d0?ctid=c233c072-135b-431d-af59-35e05babf941&experience=power-bi
@@ -257,6 +260,8 @@ Structuring regression workflows
 
 Debugging modelling errors
 
+Structuring the documetation 
+
 Improving dashboard narrative clarity
 
 All outputs were reviewed, tested, and validated manually.
@@ -294,7 +299,9 @@ Add regional-level modelling
 
 Implement time-series forecasting models (ARIMA)
 
-Add interactive model parameter co# 
+Add interactive model parameter 
+
+Standardization (Scaling ) needed for coefficients
 
 
 # Main Libraries Used
@@ -314,14 +321,14 @@ Power BI – Interactive dashboard development
 # Credits
 
 Data:
-Our World in Data (OWID) – CO₂ Emissions Dataset
+Our World in Data (OWID) – CO2 Emissions Dataset
 
-Tools:
+# Tools:
 Microsoft Power BI
 Python (Pandas, Scikit-learn, SciPy)
 
-# AcknoMain Libraries Used
+
 
 Acknowledgements
 
-Thanks to my facilitator  who provided feedback on my VS Code and dashboard design refinement.
+Thanks to my facilitator  who provided feedback on the project.
