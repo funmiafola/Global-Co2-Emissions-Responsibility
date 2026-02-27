@@ -188,6 +188,10 @@ Global trend line
 
 Emissions growth metric
 
+
+![Global Overview](images/page%201%20-Global%20Overview.png)
+
+
 # Page 2 – National Responsibility
 
 Top 10 emitters bar chart
@@ -196,11 +200,19 @@ Total vs Per-Capita scatter plot
 
 Narrative explanation
 
+
+![Top National Contributors](images/page%202-%20Top%20National%20Contributors.png)
+
+
 # Page 3 – Per-Capita Responsibility
 
 Highest per-capita ranking
 
 Development status comparison
+
+
+
+![Countries with highest Co2 emissions](images/page%203-%20Countries%20with%20highest%20co2%20emissions.png)
 
 # Page 4 – Historical & Predictive Modelling  
 
@@ -212,6 +224,10 @@ Model comparison chart
 
 Coefficient impact chart
 
+![Cumulatives CO2 Emissions ](images/page%203-%20Countries%20with%20highest%20co2%20emissions.png)
+
+
+![Predictive Modelling](images/page%205-%20predictive%20modelling.png)
 
 # Mapping Business Requirements to Visualisations
 Business Requirement -	Visualisation
