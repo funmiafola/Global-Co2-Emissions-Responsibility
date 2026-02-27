@@ -16,7 +16,7 @@ The dataset includes country-level data across multiple years.
 Key variables used in this project:
 Country – Name of the country
 Year – Reporting year
- CO2 (Total emissions) – Annual national emissions
+CO2 (Total emissions) – Annual national emissions
 CO2 per capita – Emissions per person
 Population – Used for scaling and comparison
 GDP - Used for predictive modelling
